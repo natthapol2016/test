@@ -1,5 +1,5 @@
 <?php
-$access_token = '#ใส่ access_token';
+$access_token = 'O1lqnq1hp2ajfb1Os0OyRupw9Gj8LZz9Oj3plGX9WEuL1dD6hmF4IMebhFIqY9ncxsCjRDjkCGrRpektx0vHTGZuk/pNYsz9GB+b5Z7K9MYXcoEOAGlMHgoQVu5PZXib1mo3n4WaPKWa4rlkT6AGHgdB04t89/1O/w1cDnyilFU=';
 
 $url = 'https://api.line.me/v1/oauth/verify';
 
